@@ -4,8 +4,14 @@ function App() {
 
 
   return (
-    <>
-    </>
+    <main>
+      <header>
+        <nav>
+          
+        </nav>
+      </header>
+
+    </main>
   )
 }
 
